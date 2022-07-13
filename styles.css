@@ -1,10 +1,12 @@
-# mainWebStyle
-Estilo principal para la pagina
 @media (prefers-reduced-motion: no-preference) {
   * {
     scroll-behavior: smooth;
   }
 }
+
+* {
+    scroll-behavior: smooth;
+  }
 
 #logo {
     width: 30px;
@@ -218,6 +220,7 @@ body {
     overflow: visible;
     color:#383838;
     font-style: italic;
+    text-align: justify;
 }
 
 #members {
