@@ -336,6 +336,7 @@ address {
   #contact {
     height: 100%;
   }
+    
 }
 
 #h2-title {
@@ -430,6 +431,10 @@ address {
   .modal-content {
     width: 100%;
   }
+    #contact {
+        height: auto;
+        padding-bottom: 15%;
+    }
 }
 
 /* button Section */
@@ -496,4 +501,8 @@ address {
 
 .social-icons {
     position: absolute;
+}
+
+#btn-gallery {
+    padding-bottom: 4%;
 }
