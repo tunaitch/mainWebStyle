@@ -222,7 +222,7 @@ function createMember(mainCenter, member, memberData) {
   // Subsection
   center = createCenter(select);
   imageSelect = createContainer(center, "select-image circle", "div");
-  a = createAnA(imageSelect, "");
+  a = createAnA(imageSelect, member.link);
   image = createImageIntoContainer(a, "select-image-pic", member.img, "");
 
   // Text
