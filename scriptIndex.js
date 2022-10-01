@@ -92,7 +92,7 @@ alfonsoPardillo = {
   date: "",
   phrase: "",
   img: "https://i.ibb.co/V9VKjS5/alfonsopardillo.png",
-  link: "",
+  link: "https://www.tunaitch.x10.mx/home.html",
 };
 
 serranoPardillo = {
