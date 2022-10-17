@@ -70,7 +70,7 @@ tunos = [kimyTuno, davidTuno, richardTuno, cantiTuno, gerardoTuno, popaTuno];
 christianPardillo = {
   name: "Christian",
   alias: "Peque",
-  range: "Jefe de pardillos",
+  range: "Pardillo",
   date: "",
   phrase: "",
   img: "https://i.ibb.co/vC9859W/christianpardillo.png",
@@ -80,7 +80,7 @@ christianPardillo = {
 juanPabloPardillo = {
   name: "Juan Pablo",
   alias: "Foster",
-  range: "Pardillo",
+  range: "Jefe de Pardillos",
   date: "",
   phrase: "",
   img: "https://i.ibb.co/FqDKxNG/juanpablopardillo.png",
@@ -139,8 +139,9 @@ garyPardillo = {
 
 pardillos = [
   
-  christianPardillo,
+  
   juanPabloPardillo,
+  christianPardillo,
   alfonsoPardillo,
   serranoPardillo,
   angelPardillo,
