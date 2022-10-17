@@ -52,18 +52,20 @@ gerardoTuno = {
   link: "",
 };
 
-tunos = [kimyTuno, davidTuno, richardTuno, cantiTuno, gerardoTuno];
-
-// ********* ------------- Pardillos ---------------- ***********************
-popaPardillo = {
+popaTuno = {
   name: "José",
   alias: "Popa, Abuelo",
-  range: "Director Musical",
-  date: "08/04/17",
+  range: "Director Musical <3",
+  date: "16/10/22",
   phrase: "",
   img: "https://i.ibb.co/gMxzxp1/popapardillo.png",
   link: "",
 };
+
+tunos = [kimyTuno, davidTuno, richardTuno, cantiTuno, gerardoTuno, popaTuno];
+
+// ********* ------------- Pardillos ---------------- ***********************
+
 
 christianPardillo = {
   name: "Christian",
@@ -136,7 +138,7 @@ garyPardillo = {
 };
 
 pardillos = [
-  popaPardillo,
+  
   christianPardillo,
   juanPabloPardillo,
   alfonsoPardillo,
