@@ -142,11 +142,12 @@ pardillos = [
   
   juanPabloPardillo,
   christianPardillo,
-  alfonsoPardillo,
+  
   serranoPardillo,
   angelPardillo,
   gioPardillo,
   garyPardillo,
+  alfonsoPardillo,
 ];
 
 // ********* ------------- Aspirantes ---------------- ***********************
