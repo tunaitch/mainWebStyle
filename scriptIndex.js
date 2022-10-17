@@ -58,7 +58,7 @@ popaTuno = {
   range: "Director Musical <3",
   date: "16/10/22",
   phrase: "",
-  img: "https://i.ibb.co/gMxzxp1/popapardillo.png",
+  img: "https://i.ibb.co/K6VHdn8/popaTuno.png",
   link: "",
 };
 
