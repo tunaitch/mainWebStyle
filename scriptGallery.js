@@ -107,6 +107,28 @@ photo15 = {
     alt: "S/D"
 }
 
+photo16 = {
+    src: "https://i.ibb.co/pr4pP5S/Whats-App-Image-2022-11-29-at-11-44-40-AM-1.jpg",
+    action: "onClick(this)",
+    class: "myImg",
+    alt: "S/D"
+}
+
+photo17 = {
+    src: "https://i.ibb.co/QK5sZ3J/Whats-App-Image-2022-12-01-at-8-11-37-PM.jpg",
+    action: "onClick(this)",
+    class: "myImg",
+    alt: "S/D"
+}
+
+photo18 = {
+    src: "https://i.ibb.co/BjkHxNn/Whats-App-Image-2022-11-29-at-12-20-37-PM-1.jpg",
+    action: "onClick(this)",
+    class: "myImg",
+    alt: "S/D"
+}
+
+
 mainPhotos = [
     photo1,
     photo2,
@@ -122,7 +144,10 @@ mainPhotos = [
     photo12,
     photo13,
     photo14,
-    photo15
+    photo15,
+    photo16,
+    photo17, 
+    photo18
 ];
 
 allPhotos = [
@@ -140,7 +165,10 @@ allPhotos = [
     photo12,
     photo13,
     photo14,
-    photo15
+    photo15, 
+    photo16,
+    photo17, 
+    photo18
 ];
 
 // ********* ------------- End Photos ---------------- ***********************
