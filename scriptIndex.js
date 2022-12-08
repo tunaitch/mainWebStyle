@@ -93,7 +93,7 @@ alfonsoPardillo = {
   range: "Pardillo",
   date: "",
   phrase: "",
-  img: "https://i.ibb.co/V9VKjS5/alfonsopardillo.png",
+  img: "https://i.ibb.co/tCRYymf/alfonsopardillo2.png",
   link: "https://www.tunaitch.x10.mx/home.html",
 };
 
@@ -137,6 +137,36 @@ garyPardillo = {
   link: "",
 };
 
+andyPardillo = {
+  name: "Andres",
+  alias: "Shaggy",
+  range: "Pardillo",
+  date: "",
+  phrase: "",
+  img: "https://i.ibb.co/v3M12cN/shaggy-Pardillo.png",
+  link: "",
+};
+
+fitzPardillo = {
+  name: "Omar",
+  alias: "Fitz",
+  range: "Pardillo",
+  date: "",
+  phrase: "",
+  img: "https://i.ibb.co/0f2BRVw/fitz-Pardillo.png",
+  link: "",
+};
+
+adolfoPardillo = {
+  name: "Adolfo",
+  alias: "Fürer",
+  range: "Pardillo",
+  date: "",
+  phrase: "",
+  img: "https://i.ibb.co/fSDmK5h/adolfoaspiranteof.png",
+  link: "",
+};
+
 pardillos = [
   
   
@@ -147,6 +177,9 @@ pardillos = [
   angelPardillo,
   gioPardillo,
   garyPardillo,
+  andyPardillo,
+  fitzPardillo,
+  adolfoPardillo,
   alfonsoPardillo,
 ];
 
@@ -161,15 +194,7 @@ emirAspirante = {
   link: "",
 };
 
-adolfoAspirante = {
-  name: "Adolfo",
-  alias: "Fürer",
-  range: "Aspirante",
-  date: "",
-  phrase: "",
-  img: "https://i.ibb.co/fSDmK5h/adolfoaspiranteof.png",
-  link: "",
-};
+
 
 uriAspirante = {
   name: "Uri",
@@ -191,7 +216,7 @@ ulisesAspirante = {
   link: "",
 };
 
-aspirantes = [emirAspirante, adolfoAspirante, uriAspirante, ulisesAspirante];
+aspirantes = [emirAspirante, uriAspirante, ulisesAspirante];
 
 // ********* ------------- Sections ---------------- ***********************
 
