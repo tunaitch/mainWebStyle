@@ -55,7 +55,7 @@ gerardoTuno = {
 popaTuno = {
   name: "José",
   alias: "Popa, Abuelo",
-  range: "Director Musical <3",
+  range: "Director Musical",
   date: "16/10/22",
   phrase: "",
   img: "https://i.ibb.co/K6VHdn8/popaTuno.png",
@@ -83,7 +83,7 @@ juanPabloPardillo = {
   range: "Jefe de Pardillos",
   date: "",
   phrase: "",
-  img: "https://i.ibb.co/FqDKxNG/juanpablopardillo.png",
+  img: "https://i.ibb.co/Hd7bZwr/IMG-E1381.jpg",
   link: "",
 };
 
@@ -93,7 +93,7 @@ alfonsoPardillo = {
   range: "Pardillo",
   date: "",
   phrase: "",
-  img: "https://i.ibb.co/tCRYymf/alfonsopardillo2.png",
+  img: "https://i.ibb.co/wrsk8X3/alfonso-Pardillo2.png",
   link: "https://www.tunaitch.x10.mx/home.html",
 };
 
@@ -103,7 +103,7 @@ serranoPardillo = {
   range: "Pardillo",
   date: "",
   phrase: "",
-  img: "https://i.ibb.co/m9chFX6/serranopardillo.png",
+  img: "https://i.ibb.co/wpzR5ph/IMG-E1386.jpg",
   link: "",
 };
 
@@ -113,7 +113,7 @@ angelPardillo = {
   range: "Pardillo",
   date: "",
   phrase: "",
-  img: "https://i.ibb.co/KDjm0Pp/miguelangelpardillo.png",
+  img: "https://i.ibb.co/h8wdsJF/IMG-E1401.jpg",
   link: "",
 };
 
@@ -123,7 +123,7 @@ gioPardillo = {
   range: "Pardillo",
   date: "",
   phrase: "",
-  img: "https://i.ibb.co/nC8jVfV/davidgiopardillo.png",
+  img: "https://i.ibb.co/nPG55fF/IMG-E1391.jpg",
   link: "",
 };
 
@@ -133,17 +133,17 @@ garyPardillo = {
   range: "Pardillo",
   date: "",
   phrase: "",
-  img: "https://i.ibb.co/6wv2T5B/garypardillo.png",
+  img: "https://i.ibb.co/p4LGK77/IMG-E1399.jpg",
   link: "",
 };
 
 andyPardillo = {
   name: "Andres",
-  alias: "Shaggy",
+  alias: "Frozono",
   range: "Pardillo",
   date: "",
   phrase: "",
-  img: "https://i.ibb.co/v3M12cN/shaggy-Pardillo.png",
+  img: "https://i.ibb.co/qFfgqZT/IMG-E1412.jpg",
   link: "",
 };
 
@@ -153,7 +153,7 @@ fitzPardillo = {
   range: "Pardillo",
   date: "",
   phrase: "",
-  img: "https://i.ibb.co/0f2BRVw/fitz-Pardillo.png",
+  img: "https://i.ibb.co/SV8CstS/IMG-E1410.jpg",
   link: "",
 };
 
@@ -163,7 +163,27 @@ adolfoPardillo = {
   range: "Pardillo",
   date: "",
   phrase: "",
-  img: "https://i.ibb.co/fSDmK5h/adolfoaspiranteof.png",
+  img: "https://i.ibb.co/JFS7RYk/IMG-E1408.jpg",
+  link: "",
+};
+
+uriPardillo = {
+  name: "Uri",
+  alias: "",
+  range: "Pardillo",
+  date: "",
+  phrase: "",
+  img: "https://i.ibb.co/j6dr9tD/IMG-E1426.jpg",
+  link: "",
+};
+
+bryanPardillo = {
+  name: "Bryan",
+  alias: "Erick",
+  range: "Pardillo",
+  date: "",
+  phrase: "",
+  img: "https://i.ibb.co/vjYnqwV/IMG-E1424.jpg",
   link: "",
 };
 
@@ -171,16 +191,18 @@ pardillos = [
   
   
   juanPabloPardillo,
-  christianPardillo,
-  
+  alfonsoPardillo,
   serranoPardillo,
+  christianPardillo,
+  garyPardillo,
   angelPardillo,
   gioPardillo,
-  garyPardillo,
   andyPardillo,
   fitzPardillo,
   adolfoPardillo,
-  alfonsoPardillo,
+  uriPardillo,
+  bryanPardillo
+  
 ];
 
 // ********* ------------- Aspirantes ---------------- ***********************
@@ -194,21 +216,21 @@ emirAspirante = {
   link: "",
 };
 
-
-
-uriAspirante = {
-  name: "Uri",
+ulisesAspirante = {
+  name: "Ulises",
   alias: "",
   range: "Aspirante",
   date: "",
   phrase: "",
-  img: "https://i.ibb.co/kJZGtzk/urielaspiranteof.png",
+  img: "https://i.ibb.co/YRv1QYy/IMG-E1384.jpg",
   link: "",
 };
 
-ulisesAspirante = {
-  name: "Ulises",
-  alias: "",
+
+
+staffAspirante = {
+  name: "Alexis",
+  alias: "Staff",
   range: "Aspirante",
   date: "",
   phrase: "",
@@ -216,7 +238,57 @@ ulisesAspirante = {
   link: "",
 };
 
-aspirantes = [emirAspirante, uriAspirante, ulisesAspirante];
+edsonAspirante = {
+  name: "Edson",
+  alias: "",
+  range: "Aspirante",
+  date: "",
+  phrase: "",
+  img: "https://i.ibb.co/hYH0PhH/IMG-E1434.jpg",
+  link: "",
+};
+
+mopetAspirante = {
+  name: "Lorenzo",
+  alias: "Mopet",
+  range: "Aspirante",
+  date: "",
+  phrase: "",
+  img: "https://i.ibb.co/mSW5fVZ/IMG-E1418.jpg",
+  link: "",
+};
+
+albertoAspirante = {
+  name: "Alberto",
+  alias: "Bffi",
+  range: "Aspirante",
+  date: "",
+  phrase: "",
+  img: "https://i.ibb.co/F7zRqJD/IMG-E1431.jpg",
+  link: "",
+};
+
+makiAspirante = {
+  name: "Ángel",
+  alias: "Makigero",
+  range: "Aspirante",
+  date: "",
+  phrase: "",
+  img: "https://i.ibb.co/F5Ymb1R/ulisesaspiranteof.png",
+  link: "",
+};
+
+nataAspirante = {
+  name: "Nataniel",
+  alias: "",
+  range: "Aspirante",
+  date: "",
+  phrase: "",
+  img: "",
+  link: "",
+};
+
+aspirantes = [emirAspirante, ulisesAspirante, edsonAspirante, mopetAspirante, albertoAspirante];
 
 // ********* ------------- Sections ---------------- ***********************
 
