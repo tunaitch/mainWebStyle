@@ -128,21 +128,49 @@ photo18 = {
     alt: "S/D"
 }
 
+photo19 = {
+    src: "https://i.ibb.co/zfxFtrn/IMG-E1306.jpg",
+    action: "onClick(this)",
+    class: "myImg",
+    alt: "S/D"
+}
+
+photo20 = {
+    src: "https://i.ibb.co/Kz1b2bZ/IMG-E1349.jpg",
+    action: "onClick(this)",
+    class: "myImg",
+    alt: "S/D"
+}
+
+photo21 = {
+    src: "https://i.ibb.co/BL8GXHv/IMG-E1363.jpg",
+    action: "onClick(this)",
+    class: "myImg",
+    alt: "S/D"
+}
+
+photo22 = {
+    src: "https://i.ibb.co/2PPp7SL/IMG-E1369.jpg",
+    action: "onClick(this)",
+    class: "myImg",
+    alt: "S/D"
+}
+
 
 mainPhotos = [
     photo1,
-    photo2,
-    photo3,
+    photo21,
+    photo22,
     photo4,
     photo5,
     photo6,
     photo7,
     photo8,
     photo9,
-    photo10,
+    photo20,
     photo11,
     photo12,
-    photo13,
+    photo19,
     photo14,
     photo15,
     photo16,
@@ -168,7 +196,11 @@ allPhotos = [
     photo15, 
     photo16,
     photo17, 
-    photo18
+    photo18, 
+    photo19,
+    photo20, 
+    photo21,
+    photo22
 ];
 
 // ********* ------------- End Photos ---------------- ***********************
